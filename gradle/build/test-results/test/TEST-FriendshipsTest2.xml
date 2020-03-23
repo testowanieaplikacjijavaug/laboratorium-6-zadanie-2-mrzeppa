@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FriendshipsTest2" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-03-23T12:19:19" hostname="DESKTOP-T32JKKU" time="0.276">
+  <properties/>
+  <testcase name="AfterAddingFriendToOnePersonSecondOneShouldHaveFriendshiptoo()" classname="FriendshipsTest2" time="0.154"/>
+  <testcase name="ShouldAppendToListOfGivenKey()" classname="FriendshipsTest2" time="0.033"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson1IsNull()" classname="FriendshipsTest2" time="0.004"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPersonIsNullCallingGetFriendshipList()" classname="FriendshipsTest2" time="0.002"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPersonDoNotExistInMapCallingGetFriendshipList()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldMakeRecordInMapWhenThereIsNoGivenKeyInMap()" classname="FriendshipsTest2" time="0.002"/>
+  <testcase name="ShouldRaiseAnExceptionWhenThereIsNoGivenKey()" classname="FriendshipsTest2" time="0.0"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson2IsNull()" classname="FriendshipsTest2" time="0.003"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson1IsEmpty()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson2IsNullInAreFriends()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldReturnFalseIfTwoPeopleAreNotFriends()" classname="FriendshipsTest2" time="0.002"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPersonIsEmptyCallingGetFriendshipList()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldReturnFriendshipList()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson2IsEmptyInAreFriends()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson1IsNullInAreFriends()" classname="FriendshipsTest2" time="0.0"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson2IsEmpty()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldReturnTrueIfTwoPeopleAreFriends()" classname="FriendshipsTest2" time="0.001"/>
+  <testcase name="ShouldRaiseAnExceptionWhenPerson1IsEmptyInAreFriends()" classname="FriendshipsTest2" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
